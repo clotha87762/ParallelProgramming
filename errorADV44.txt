@@ -1,0 +1,16 @@
+rank 0 time = 1.656604 compute time=0.485102 commu time=0.310488 io time=0.861014 mtime=0.152438
+rank 2 time = 4.400751 compute time=0.453877 commu time=0.346128 io time=3.600746 mtime=0.117467
+rank 6 time = 4.397421 compute time=0.430325 commu time=0.365790 io time=3.601306 mtime=0.070807
+rank 3 time = 7.152712 compute time=0.461581 commu time=0.338960 io time=6.352170 mtime=0.126541
+rank 4 time = 7.277402 compute time=0.445514 commu time=0.350401 io time=6.481486 mtime=0.091789
+rank 1 time = 7.988970 compute time=0.484377 commu time=0.305614 io time=7.198978 mtime=0.153701
+rank 7 time = 7.994821 compute time=0.445885 commu time=0.349738 io time=7.199198 mtime=0.087339
+rank 5 time = 7.995064 compute time=0.459384 commu time=0.336338 io time=7.199342 mtime=0.105001
+rank 13 time = 7.989319 compute time=0.480466 commu time=0.309544 io time=7.199309 mtime=0.160461
+rank 11 time = 8.000620 compute time=0.465308 commu time=0.335487 io time=7.199825 mtime=0.128123
+rank 8 time = 8.423059 compute time=0.420704 commu time=0.377029 io time=7.625326 mtime=0.071111
+rank 9 time = 8.425281 compute time=0.447173 commu time=0.352780 io time=7.625328 mtime=0.103644
+rank 10 time = 8.437412 compute time=0.436152 commu time=0.375904 io time=7.625356 mtime=0.092384
+rank 12 time = 8.388656 compute time=0.452934 commu time=0.300363 io time=7.635359 mtime=0.127713
+rank 14 time = 8.405867 compute time=0.490213 commu time=0.280105 io time=7.635549 mtime=0.168921
+rank 15 time = 8.388734 compute time=0.314854 commu time=0.438315 io time=7.635565 mtime=0.000000

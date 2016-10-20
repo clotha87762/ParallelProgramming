@@ -1,0 +1,4 @@
+rank 0 time = 2.766230 compute time=1.545882 commu time=0.326864 io time=0.893483 mtime=0.171522
+rank 2 time = 2.806102 compute time=1.559299 commu time=0.320016 io time=0.926787 mtime=0.176766
+rank 1 time = 2.826019 compute time=1.566681 commu time=0.317848 io time=0.941490 mtime=0.188792
+rank 3 time = 2.855312 compute time=1.362617 commu time=0.532370 io time=0.960325 mtime=0.000000
